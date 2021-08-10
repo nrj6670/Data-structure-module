@@ -1,0 +1,18 @@
+package com.app.core.circularlinkedlist;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CircularLinkedListTest {
+
+	@Test
+	void testInsertOneElement() {
+		CircularLinkedList list = new CircularLinkedList();
+		
+		list.Insert(22);
+		
+		int [] listItems = list.getList()
+	}
+
+}

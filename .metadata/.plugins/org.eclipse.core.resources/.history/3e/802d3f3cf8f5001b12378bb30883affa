@@ -1,0 +1,19 @@
+package tester;
+
+import com.app.core.doublylinkedlist.DoublyLinkedListTest;
+
+public class DoublyLinkedListTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DoublyLinkedListTest test = new DoublyLinkedListTest();
+		
+		test.testAddAtFrontOneElement();
+		test.testAddAtFrontTwoElement();
+		test.testAddAtTheRear();
+		test.testAddOneAtTheRear();
+		test.testEmptyList();
+		
+	}
+
+}

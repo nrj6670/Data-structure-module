@@ -1,0 +1,23 @@
+package com.app.core.circularlinkedlist;
+
+public class CircularLinkedList implements SortedLinkedListIntf {
+
+	@Override
+	public void Insert(int element) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void Delete(int element) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int[] GetAllElements() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

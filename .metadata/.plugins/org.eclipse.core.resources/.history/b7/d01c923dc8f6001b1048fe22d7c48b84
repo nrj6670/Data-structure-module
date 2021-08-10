@@ -1,0 +1,39 @@
+package com.app.core.singlylinkedlist;
+
+public class StackImplementation implements Stack {
+	
+	SinglyListNode head;
+	
+	
+	
+	@Override
+	public void push(int element) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int peek() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void pop() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int getSize() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

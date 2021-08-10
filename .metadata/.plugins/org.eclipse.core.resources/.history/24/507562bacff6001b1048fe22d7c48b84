@@ -1,0 +1,21 @@
+package com.app.core.circularlinkedlist;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CircularLinkedListTest {
+
+	@Test
+	void testInsertOneElement() {
+		CircularLinkedList list = new CircularLinkedList();
+		
+		int element = 22;
+		list.Insert(element);
+		
+		int [] listItems = list.GetAllElements();
+		
+		assertTrue(listItems.length == 1 && listItems[listItems.length - 1] == element);
+	}
+
+}

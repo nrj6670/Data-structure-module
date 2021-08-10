@@ -1,0 +1,13 @@
+package tester;
+
+import java.util.Scanner;
+import com.app.core.stack.QueueUsingTwoStacks;
+
+public class QueueUsingTwoStacksTester {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+	}
+
+}

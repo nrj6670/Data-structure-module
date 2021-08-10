@@ -1,0 +1,28 @@
+package com.app.core.binarytree;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class BinaryTreeTest {
+	@Test
+	void testPreOrder() {
+		BinaryTree bt = new BinaryTree();
+		int[] element = bt.BuildTreeForPreOrder();
+		int[] traversalResult = bt.PreOrder();
+
+		assertArrayEquals(element, traversalResult);
+	}
+	
+	@Test
+	void testPostOrder() {
+		BinaryTree tree = new BinaryTree();
+		tree.root = new BinaryTreeNode(1);
+		tree.root.lChild = new BinaryTreeNode(2);
+		tree.root.rChild = new BinaryTreeNode(3);
+		tree.root.lChild.rChild = new BinaryTreeNode(4);
+		tree.root.rChild.lChild = new BinaryTreeNode(5);
+		tree.root.rChild.lChild = new BinaryTreeNode(6);
+	}
+
+}

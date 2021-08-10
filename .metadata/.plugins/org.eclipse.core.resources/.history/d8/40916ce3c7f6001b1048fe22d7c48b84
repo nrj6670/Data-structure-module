@@ -1,0 +1,9 @@
+package com.app.core.singlylinkedlist;
+
+public class StackUsingLinkedList {
+	
+	
+	public void insert() {
+		
+	}
+}

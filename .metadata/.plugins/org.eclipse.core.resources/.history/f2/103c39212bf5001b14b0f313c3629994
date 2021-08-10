@@ -1,0 +1,21 @@
+package com.app.core.sortedlinkedlist;
+
+public class SortedLinkedListImplementation implements SortedLinkedListIntf {
+
+	Singl
+	
+	public SortedLinkedListImplementation() {
+		
+	}
+	@Override
+	public void Insert(int element) {
+		
+	}
+
+	@Override
+	public int[] GetAllElements() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

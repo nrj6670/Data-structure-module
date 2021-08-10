@@ -1,0 +1,13 @@
+package tester;
+
+import com.app.core.stack.TwoStackUsingSingleArray;
+import java.util.Scanner;
+
+public class TwoStackUsingSingleArrayTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

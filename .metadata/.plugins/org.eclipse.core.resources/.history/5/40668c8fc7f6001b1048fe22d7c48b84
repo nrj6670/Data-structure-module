@@ -1,0 +1,9 @@
+package com.app.core.stackusinglinkedlist;
+
+public class StackUsingLinkedList {
+	
+	
+	public void insert() {
+		
+	}
+}

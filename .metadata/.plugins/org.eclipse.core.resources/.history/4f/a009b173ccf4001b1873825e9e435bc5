@@ -1,0 +1,27 @@
+package tester;
+
+import java.util.Queue;
+import java.util.Scanner;
+import java.util.LinkedList;
+
+public class StackUsingTwoQueues {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Queue<Integer> q1 = new LinkedList<>();
+		Queue<Integer> q2 = new LinkedList<>();
+		
+		while(true) {
+			System.out.println("Enter any number to insert in the stack or -1 to exit ");
+			int input = sc.nextInt();
+			if(input == -1) {
+				break;
+			}
+			q1.add(input);
+		}
+		
+		
+		
+	}
+
+}

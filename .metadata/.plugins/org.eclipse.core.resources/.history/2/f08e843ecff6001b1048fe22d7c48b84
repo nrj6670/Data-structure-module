@@ -1,0 +1,14 @@
+package com.app.core.circularlinkedlist;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CircularLinkedListTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

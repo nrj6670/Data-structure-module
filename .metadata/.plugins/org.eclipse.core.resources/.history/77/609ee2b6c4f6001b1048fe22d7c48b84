@@ -1,0 +1,17 @@
+package tester;
+
+import com.app.core.singlylinkedlist.SinglyLinkedListTest;
+
+public class SinglyLinkedListTester {
+
+	public static void main(String[] args) {
+		SinglyLinkedListTest test = new SinglyLinkedListTest();
+		test.testDeleteMiddleElement();
+		test.testDeleteElementNotInList();
+		test.testDeleteFirstElement();
+		test.testDeleteInEmptyList();
+		test.testDeleteLastElement();
+		test.testDeleteMiddleElement();
+	}
+
+}
