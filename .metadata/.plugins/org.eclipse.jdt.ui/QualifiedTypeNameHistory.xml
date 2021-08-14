@@ -17,5 +17,6 @@
     <fullyQualifiedTypeName name="com.app.core.binarytree.BinaryTreeNode"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.calc.LeftShiftNode"/>
     <fullyQualifiedTypeName name="com.app.core.binarysearchtree.MyContainer"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>

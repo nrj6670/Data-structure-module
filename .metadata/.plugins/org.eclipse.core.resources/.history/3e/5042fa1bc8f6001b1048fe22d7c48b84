@@ -1,9 +1,0 @@
-package com.app.core.singlylinkedlist;
-
-public interface stack {
-	void push(int element);
-	int peek();
-	void pop();
-	int getSize();
-	boolean isEmpty();
-}
