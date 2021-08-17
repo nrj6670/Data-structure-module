@@ -5,12 +5,10 @@
     <fullyQualifiedTypeName name="com.app.core.queue.QueueImplementation"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
     <fullyQualifiedTypeName name="com.app.core.stack.StackImplementation"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="com.app.core.queue.QueueUsingTwoStacks"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.app.core.stack.QueueUsingTwoStacks"/>
     <fullyQualifiedTypeName name="com.app.core.stack.TwoStackUsingSingleArray"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
     <fullyQualifiedTypeName name="com.app.core.sortedlinkedlist.SortedLinkedListTest"/>
     <fullyQualifiedTypeName name="com.app.core.singlylinkedlist.SinglyLinkedListTest"/>
     <fullyQualifiedTypeName name="com.app.core.doublylinkedlist.DoublyLinkedListTest"/>
@@ -18,5 +16,9 @@
     <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.calc.LeftShiftNode"/>
     <fullyQualifiedTypeName name="com.app.core.binarysearchtree.MyContainer"/>
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
